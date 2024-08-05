@@ -2,4 +2,3 @@
 - I’m interested in Perl, Go , C# languages
 - I’m currently learning C, Python, SQL, Javascript languages
 - I’m looking to collaborate on C language projects
-- You can reach me via email for additional inquiries at stephok5@gmail.com
